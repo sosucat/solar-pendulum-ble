@@ -1,0 +1,7 @@
+Added Component: Designator=P_SLR(Paired_pads)
+Added Component: Designator=TP_SLR(Test_point)
+Added Pin To Net: NetName=NetC_IN_1 Pin=P_SLR-1
+Added Pin To Net: NetName=PGND Pin=P_SLR-2
+Added Pin To Net: NetName=NetC_IN_1 Pin=TP_SLR-1
+Added Member To Class: ClassName=Sheet1 Member=Component P_SLR Paired_pads
+Added Member To Class: ClassName=Sheet1 Member=Component TP_SLR TP

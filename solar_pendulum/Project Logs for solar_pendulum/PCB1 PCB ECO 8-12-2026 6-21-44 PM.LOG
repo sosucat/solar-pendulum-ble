@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VDD Pin=D1-3
+Removed Pin From Net: NetName=VDD Pin=P_COIL-1
+Removed Pin From Net: NetName=VDD Pin=VDD-1
+Removed Member From Class: ClassName=Sheet1 Member=VDD
+Added Component: Designator=TP_VBAT(Test_point)
+Added Pin To Net: NetName=NetC_MAIN1_1 Pin=D1-3
+Added Pin To Net: NetName=NetC_MAIN1_1 Pin=P_COIL-1
+Added Pin To Net: NetName=NetC_MAIN1_1 Pin=TP_VBAT-1
+Change Net Name : Old Net Name=NetC_MAIN1_1 New Net Name=VBAT
+Added Member To Class: ClassName=Sheet1 Member=Component TP_VBAT TP

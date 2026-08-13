@@ -1,0 +1,62 @@
+Change Component Designator: OldDesignator=MD? NewDesignator=MD
+Added Component: Designator=P_JL(61300411121)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "5.9944mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mÉ∂"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105ÅãC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40ÅãC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=TP_GND(Test_point)
+Added Component: Designator=TP_P5(Test_point)
+Added Component: Designator=TP_P8(Test_point)
+Added Component: Designator=TP_VDD(Test_point)
+Added Pin To Net: NetName=SGND Pin=MD-J2
+Added Pin To Net: NetName=SGND Pin=MD-J3
+Added Pin To Net: NetName=SGND Pin=MD-J4
+Added Pin To Net: NetName=SGND Pin=MD-J6
+Added Pin To Net: NetName=SGND Pin=MD-J11
+Added Pin To Net: NetName=SGND Pin=P_JL-1
+Added Pin To Net: NetName=PGND Pin=TP_GND-1
+Added Pin To Net: NetName=DIO Pin=MD-J13
+Added Net: Name=DIO
+Added Pin To Net: NetName=NetMD_J9 Pin=MD-J9
+Added Pin To Net: NetName=NetMD_J9 Pin=P_JL-3
+Added Net: Name=NetMD_J9
+Added Pin To Net: NetName=NetMD_J10 Pin=MD-J10
+Added Pin To Net: NetName=NetMD_J10 Pin=P_JL-4
+Added Net: Name=NetMD_J10
+Added Pin To Net: NetName=NetMD_J14 Pin=MD-J14
+Added Pin To Net: NetName=NetMD_J14 Pin=TP_P5-1
+Added Net: Name=NetMD_J14
+Added Pin To Net: NetName=NetMD_J16 Pin=MD-J16
+Added Pin To Net: NetName=NetMD_J16 Pin=TP_P8-1
+Added Net: Name=NetMD_J16
+Added Pin To Net: NetName=VDD Pin=MD-J7
+Added Pin To Net: NetName=VDD Pin=P_JL-2
+Added Pin To Net: NetName=VDD Pin=QVBSEC-3
+Added Pin To Net: NetName=VDD Pin=TP_VDD-1
+Added Net: Name=VDD
+Added Member To Class: ClassName=Sheet1 Member=Component P_JL 61300411121
+Added Member To Class: ClassName=Sheet1 Member=Component TP_GND TP
+Added Member To Class: ClassName=Sheet1 Member=Component TP_P5 TP
+Added Member To Class: ClassName=Sheet1 Member=Component TP_P8 TP
+Added Member To Class: ClassName=Sheet1 Member=Component TP_VDD TP

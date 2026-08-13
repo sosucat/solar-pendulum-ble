@@ -1,0 +1,15 @@
+Added Component: Designator=TP_GND(Test_point)
+Added Component: Designator=TP_P5(Test_point)
+Added Component: Designator=TP_P8(Test_point)
+Added Component: Designator=TP_SLR(Test_point)
+Added Component: Designator=TP_VDD(Test_point)
+Added Pin To Net: NetName=PGND Pin=TP_GND-1
+Added Pin To Net: NetName=NetMD_J14 Pin=TP_P5-1
+Added Pin To Net: NetName=NetMD_J16 Pin=TP_P8-1
+Added Pin To Net: NetName=NetC_IN_1 Pin=TP_SLR-1
+Added Pin To Net: NetName=VDD Pin=TP_VDD-1
+Added Member To Class: ClassName=Sheet1 Member=Component TP_GND TP
+Added Member To Class: ClassName=Sheet1 Member=Component TP_P5 TP
+Added Member To Class: ClassName=Sheet1 Member=Component TP_P8 TP
+Added Member To Class: ClassName=Sheet1 Member=Component TP_SLR TP
+Added Member To Class: ClassName=Sheet1 Member=Component TP_VDD TP

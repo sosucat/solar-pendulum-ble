@@ -1,0 +1,4 @@
+Added Component: Designator=GNDconnect(GNDconnect)
+Added Pin To Net: NetName=PGND Pin=GNDconnect-P
+Added Pin To Net: NetName=SGND Pin=GNDconnect-S
+Added Member To Class: ClassName=Sheet1 Member=Component GNDconnect

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=PGND Pin=CBYP-2
+Removed Pin From Net: NetName=PGND Pin=CIN-2
+Removed Pin From Net: NetName=PGND Pin=CSTOR-2
+Removed Pin From Net: NetName=PGND Pin=Solar-2
+Removed Pin From Net: NetName=PGND Pin=U1-1
+Removed Pin From Net: NetName=PGND Pin=U1-21
+Added Pin To Net: NetName=SGND Pin=CBYP-2
+Added Pin To Net: NetName=SGND Pin=CIN-2
+Added Pin To Net: NetName=SGND Pin=CSTOR-2
+Added Pin To Net: NetName=SGND Pin=Solar-2
+Added Pin To Net: NetName=SGND Pin=U1-1
+Added Pin To Net: NetName=SGND Pin=U1-21
+Added Member To Class: ClassName=Sheet1 Member=Component L1 744031220
+Added Member To Class: ClassName=Sheet1 Member=Component U1 BQ25505RGRR
